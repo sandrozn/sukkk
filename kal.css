@@ -1,0 +1,42 @@
+p {
+    color: rgb(119, 80, 17);
+    text-decoration: rgb(255, 255, 255);
+    margin: 30px;
+}
+
+.ds {
+    color: rgb(153, 35, 64);
+    text-decoration: rgb(79, 171, 18);
+}
+
+aside {
+    padding: 10px;
+    width: 200px;
+    float: right;
+    background: #9b0fbe50;
+    background-image: url(MYCREATION/HD-wallpaper-playboi-carti-red-whole-lotta-red.png);
+}
+
+article {
+    margin-right: 240px;
+    display: block;
+}
+
+body {
+    background: #aa0fbe3c;
+    ;
+}
+
+.exe {
+    background-image: url(/Users/sandro/Desktop/www/MYCREATION/HD-wallpaper-playboi-carti-red-whole-lotta-red.png);
+    width: 100%;
+    border: none;
+    margin-bottom: 20px;
+}
+
+body {
+    width: 70%;
+    margin-right: auto;
+    margin-left: auto;
+    font-family: Verdana, sans-serif;
+}
